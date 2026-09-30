@@ -1,1 +1,1 @@
-BIODATA SISWA BERADA DI MSISWA DAN DI TAB TENGAH ATAu SOSIAL
+biodata siswa ada pada folder msiswa dan pada bagian tab tengah
